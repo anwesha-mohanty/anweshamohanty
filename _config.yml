@@ -1,4 +1,4 @@
 # add the following to _config.yml file
 title: YOUR NAME
-theme: jekyll-serif-theme
+remote_theme: jekyll-serif-theme
 baseurl: "/jekyll-serif-theme/"
